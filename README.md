@@ -3,7 +3,7 @@
 EDW组件库。所有组件按照 es-组件名 的命名方式
 
 ## Second
-- [second](/jaylin0522/cursor/blob/main/folder/react.md)
+- [second](/folder/react.md)
 
 ## React函数式组件优化
 - [React函数式组件优化](https://zhoujingchao.github.io/front-end/react/hooks/optimize.html)
