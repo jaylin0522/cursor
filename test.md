@@ -2,6 +2,13 @@
 
 EDW组件库。所有组件按照 es-组件名 的命名方式
 
+## React函数式组件优化
+- [React函数式组件优化](https://zhoujingchao.github.io/front-end/react/hooks/optimize.html)
+
+## React
+- [React](https://zhoujingchao.github.io/front-end/react/hooks/)
+
+  
 ## 更新日志
 
 - [更新日志](https://edw.tsign.cn/#/zh-CN/component/changelog)
